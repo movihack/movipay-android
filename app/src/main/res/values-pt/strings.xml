@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MoviPay</string>
+    <string name="token">Token</string>
+    <string name="wallet">Carteira</string>
+    <string name="user">Usuário</string>
+    <string name="create_token">Criar Token Estático</string>
+    <string name="new_token">Criar Novo Token</string>
+    <string name="limit">Limite</string>
+    <string name="dynamic_limit">Habilitar Limite Dinâmico</string>
+    <string name="create_area">Delimitar Área</string>
+    <string name="create_boleto">Gerar Boleto</string>
+    <string name="add_credit_Card">Adicionar Cartão de Crédito</string>
+    <string name="receipt">Receita</string>
+    <string-array name="times">
+        <item>4 houras</item>
+        <item>8 houras</item>
+        <item>16 houras</item>
+        <item>24 houras</item>
+        <item>48 houras</item>
+    </string-array>
+
+</resources>
